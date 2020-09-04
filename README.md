@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/y-agg/pywakit/blob/master/Images/download.png" width="130" height="130"/> Do you ever wonder sending messages automatically by just running a simple python script? Yes, you heard it right, it can be done easily by using this package with selenium.<br>
+<img align="left" src="https://github.com/y-agg/pywakit/blob/master/Images/download.png?raw=true" width="130" height="130"/> Do you ever wonder sending messages automatically by just running a simple python script? Yes, you heard it right, it can be done easily by using this package with selenium.<br>
 Selenium is a very smart package in python with which developers can automate the browser’s activity. With this, we can make use of Whatsapp-web through the browser and use it to automate message transfers.
 
 <img align="center" src="https://github.com/y-agg/pywakit/blob/master/Images/main.gif"/>
