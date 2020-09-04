@@ -137,7 +137,7 @@ class WhatsApp():
         self.only_log_data("// Process: get_google_chrome_version() is called...")
         paths = [r"C:\Program Files\Google\Chrome\Application\chrome.exe",
                 r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"]
-        version = list(filter(None, [self.get_version_via_com(p) for p in paths]))[0]
+        version = list(filter(None,  [self.get_version_via_com(p) for p in paths]))[0]
         return version
 
     def get_version_via_com(self,filename):

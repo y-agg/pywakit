@@ -8,3 +8,4 @@ dist/*
 build/*
 ./pywakit.egg-info
 pywakit.egg-info/*
+_config.yml
