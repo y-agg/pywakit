@@ -1,0 +1,10 @@
+*.exe
+*.txt
+*.txt
+.pypirc
+./dist
+dist/*
+./build
+build/*
+./pywakit.egg-info
+pywakit.egg-info/*
