@@ -6,6 +6,10 @@ Selenium is a very smart package in python with which developers can automate th
 
 <br>
 
+## pypi.org ⚗️
+You can find [pywakit](https://pypi.org/project/pywakit/) command to install on your local system.
+
+
 ## Basic Requirement 📖
 1. Library/Packages — Selenium , Chromedriver(for web automation).
 2. IDE — Jupyter Notebook, Sublime, Visual Studio Code (It can even your command prompt, it just have to run Python).
@@ -89,7 +93,7 @@ This project is licensed under the MIT License - see the [MIT License](./LICENSE
 
 
 ## Connect 💡
-<p align='center'>
+<p>
 <a href="https://twitter.com/yashaggarwal_">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
