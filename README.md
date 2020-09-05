@@ -1,4 +1,4 @@
-<img src="https://github.com/y-agg/pywakit/blob/master/Images/logo.jpeg?raw=true"/>
+[<img src="https://github.com/y-agg/pywakit/blob/master/Images/logo.jpeg?raw=true"/>](https://medium.com/@yashaggarwal_/web-whatsapp-message-automation-through-python-613d48474dd7)
 
 ## About 📟
 Do you ever wonder sending messages automatically by just running a simple python script? Yes, you heard it right, it can be done easily by using this package with selenium. 
